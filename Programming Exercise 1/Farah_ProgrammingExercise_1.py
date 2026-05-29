@@ -50,7 +50,7 @@ def main():
         remaining_tickets = 10
 
         # Accumulator to count how many buyers purchased tickets
-        buyer_count = 0
+        total_buyers = 0
 
         # Loop until all tickets are sold
         while remaining_tickets > 0:
@@ -59,11 +59,11 @@ def main():
             remaining_tickets = process_purchase(remaining_tickets)
 
             # Increase buyer count only when a purchase attempt occurs
-            buyer_count += 1
+            total_buyers += 1
 
         # Display the total number of buyers once all tickets are sold
         print("All tickets have been sold.")
-        print(f"Total number of buyers: {buyer_count}\n")
+        print(f"Total number of buyers: {total_buyers}\n")
 
         # Ask the user if they want to run the program again
         repeat_program = input("Would you like to run the program again? (y/n): ")
