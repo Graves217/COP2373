@@ -47,7 +47,7 @@ def main():
     while repeat_program.lower() == "y":
 
         # Total number of tickets available at the start
-        remaining_tickets = 20
+        remaining_tickets = 10
 
         # Accumulator to count how many buyers purchased tickets
         buyer_count = 0
