@@ -13,7 +13,7 @@ def process_purchase(remaining_tickets):
     """
 
     # Ask the user how many tickets they want to buy
-    requested = int(input("How many tickets would you like to buy (1-4)? "))
+    requested = int(input("Enter the number of tickets you want to purchase (1-4): "))
 
     # Validate the request to ensure it follows the rules
     if requested < 1 or requested > 4:
