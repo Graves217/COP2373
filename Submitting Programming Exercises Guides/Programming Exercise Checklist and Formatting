@@ -1,0 +1,11 @@
+When submitting programming exercises, please make sure to do the following or points will be deducted:
+
+Name the file using this format - YourName_ProgrammingExericse_#.py - you must do this so I don't have issues when putting your files in PyCharm for me to test. 
+All code should be in functions. 
+Put line spacing between sections of code. 
+Comment your code and please put comments above your lines of code (not after). Your comments should explain why the code is doing something. 
+Please use proper grammar, spelling and punctuation when prompting and displaying to users. 
+All programming exercises will be accompanied by a word document file to resemble a technical design document.
+In the technical design document, add a screenshot of your output from running your code. There should be no errors in your output. Any errors should be fixed before submitting. Click here Download here
+ for an example. 
+All programming exercises should be in your repository along with the technical design document. Upload the technical design document manually to your repository. 
