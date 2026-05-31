@@ -1,0 +1,12 @@
+For each programming assignment, you must create a document (.doc/.docx) that will be your technical design document. The name of the file should be the same as the coding assignment. This document will be stored in your repository with the corresponding coding assignment and submitted in the assignment section. 
+The document should have the following:
+Your name and date created.
+A brief description of the program.
+For each function you are creating, include the following details:
+name of function with brief description of the function
+the parameters the function takes in (if any) and their data type
+the variables used in the function and their data type
+the logical steps of the function
+the return (if any)
+4. Link to your COP2373 repository. 
+5. Screenshot of your output from testing your code. 
