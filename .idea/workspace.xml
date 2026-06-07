@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cdc394e-6495-402d-967d-d8c630787f62" name="Changes" comment="PE1 upload" />
+    <list default="true" id="2cdc394e-6495-402d-967d-d8c630787f62" name="Changes" comment="Changes upload">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +27,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:Graves217/COP2373.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Graves217/COP2373.git&quot;,
     &quot;accountId&quot;: &quot;27c13ef4-7a0e-47b7-9e78-35bb8a076099&quot;
   }
 }</component>
@@ -38,32 +40,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Programing Exercise 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programming Exercise 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anthony/OneDrive/Documents/School/State College of Florida/COP2373 - Programming Concepts II&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Debugging_Exercise.executor": "Run",
+    "Python.Farah_DebuggingExercise_1.executor": "Run",
+    "Python.Farah_ProgrammingExercise_3.executor": "Run",
+    "Python.Farah_ProgrammingExercise_6.executor": "Run",
+    "Python.Farah_ProgrammingExericse_2.executor": "Run",
+    "Python.Programing Exercise 1.executor": "Run",
+    "Python.Programming Exercise 1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.tokenize.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Anthony/PycharmProjects/COP2373",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myDebuggerBackend" value="DEBUGPY" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anthony\PycharmProjects\COP2373" />
       <recent name="C:\Users\Anthony\OneDrive\Documents\School\State College of Florida\COP2373 - Programming Concepts II" />
     </key>
   </component>
@@ -89,6 +101,32 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Debugging_Exercise" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Total Script" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PythonProject) (2)" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Debugging_Exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Farah_ProgramingExercise_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -299,6 +337,11 @@
       <workItem from="1779323524221" duration="365000" />
       <workItem from="1779323912601" duration="237000" />
       <workItem from="1779326161464" duration="3539000" />
+      <workItem from="1779405292268" duration="27000" />
+      <workItem from="1779452624245" duration="3937000" />
+      <workItem from="1780190042551" duration="2692000" />
+      <workItem from="1780725083679" duration="544000" />
+      <workItem from="1780792362184" duration="715000" />
     </task>
     <task id="LOCAL-00001" summary="PE1 upload">
       <option name="closed" value="true" />
@@ -308,7 +351,23 @@
       <option name="project" value="LOCAL" />
       <updated>1779328781365</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes upload">
+      <option name="closed" value="true" />
+      <created>1779331237349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779331237349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes upload">
+      <option name="closed" value="true" />
+      <created>1779331273724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779331273724</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +386,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PE1 upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="PE1 upload" />
+    <MESSAGE value="Changes upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes upload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,8 +399,20 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="price" />
+        <watch expression="products[0]['name']" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COP2373$Farah_ProgrammingExercise_3.coverage" NAME="Farah_ProgrammingExercise_3 Coverage Results" MODIFIED="1780725148211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COP2373$Farah_ProgrammingExercise_6.coverage" NAME="Farah_ProgrammingExercise_6 Coverage Results" MODIFIED="1780792972395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COP2373$Debugging_Exercise.coverage" NAME="Debugging_Exercise Coverage Results" MODIFIED="1780191869517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/COP2373$tokenize.coverage" NAME="tokenize Coverage Results" MODIFIED="1779454258227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../Program Files/Python314/Lib" />
+    <SUITE FILE_PATH="coverage/COP2373$Farah_DebuggingExercise_1.coverage" NAME="Farah_DebuggingExercise_1 Coverage Results" MODIFIED="1779455241887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COP2373$main.coverage" NAME="Programing Exercise 1 Coverage Results" MODIFIED="1779327648026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COP2373$Farah_ProgrammingExericse_2.coverage" NAME="Farah_ProgrammingExericse_2 Coverage Results" MODIFIED="1780191917114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programming Exercise 2" />
   </component>
 </project>
