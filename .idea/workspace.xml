@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cdc394e-6495-402d-967d-d8c630787f62" name="Changes" comment="Changes upload">
+      <change afterPath="$PROJECT_DIR$/Farah_ProgrammingExercise_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/COP2373.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/COP2373.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -47,6 +50,7 @@
     "Python.Farah_DebuggingExercise_1.executor": "Run",
     "Python.Farah_ProgrammingExercise_3.executor": "Run",
     "Python.Farah_ProgrammingExercise_6.executor": "Run",
+    "Python.Farah_ProgrammingExercise_7.executor": "Run",
     "Python.Farah_ProgrammingExericse_2.executor": "Run",
     "Python.Programing Exercise 1.executor": "Run",
     "Python.Programming Exercise 1.executor": "Run",
@@ -58,6 +62,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "git.auto.fetch.suggestion.counter": "1",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Anthony/PycharmProjects/COP2373",
     "nodejs_package_manager_path": "npm",
@@ -341,7 +346,10 @@
       <workItem from="1779452624245" duration="3937000" />
       <workItem from="1780190042551" duration="2692000" />
       <workItem from="1780725083679" duration="544000" />
-      <workItem from="1780792362184" duration="715000" />
+      <workItem from="1780792362184" duration="920000" />
+      <workItem from="1780793318245" duration="19000" />
+      <workItem from="1780793625426" duration="2393000" />
+      <workItem from="1781017753542" duration="1916000" />
     </task>
     <task id="LOCAL-00001" summary="PE1 upload">
       <option name="closed" value="true" />
@@ -367,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779331273724</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes upload">
+      <option name="closed" value="true" />
+      <created>1780793180552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780793180552</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,9 +424,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/COP2373$Farah_ProgrammingExercise_3.coverage" NAME="Farah_ProgrammingExercise_3 Coverage Results" MODIFIED="1780725148211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COP2373$Farah_ProgrammingExercise_6.coverage" NAME="Farah_ProgrammingExercise_6 Coverage Results" MODIFIED="1780792972395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COP2373$Farah_ProgrammingExercise_6.coverage" NAME="Farah_ProgrammingExercise_6 Coverage Results" MODIFIED="1780795685971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programming Exercise 6" />
     <SUITE FILE_PATH="coverage/COP2373$Debugging_Exercise.coverage" NAME="Debugging_Exercise Coverage Results" MODIFIED="1780191869517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/COP2373$tokenize.coverage" NAME="tokenize Coverage Results" MODIFIED="1779454258227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../Program Files/Python314/Lib" />
+    <SUITE FILE_PATH="coverage/COP2373$Farah_ProgrammingExercise_7.coverage" NAME="Farah_ProgrammingExercise_7 Coverage Results" MODIFIED="1781022776201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COP2373$Farah_DebuggingExercise_1.coverage" NAME="Farah_DebuggingExercise_1 Coverage Results" MODIFIED="1779455241887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COP2373$main.coverage" NAME="Programing Exercise 1 Coverage Results" MODIFIED="1779327648026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COP2373$Farah_ProgrammingExericse_2.coverage" NAME="Farah_ProgrammingExericse_2 Coverage Results" MODIFIED="1780191917114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programming Exercise 2" />
