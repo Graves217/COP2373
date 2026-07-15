@@ -6,6 +6,34 @@ import csv
 
 
 # -------------------------------------------------------------
+# Function: choose_file
+# Purpose: Allow the user to browse and select a CSV file.
+# Why: Makes the program more user-friendly and flexible.
+# -------------------------------------------------------------
+def choose_file() -> str:
+    """
+    Open a file dialog so the user can select a CSV file.
+
+    Returns:
+        str: The full path to the selected CSV file.
+    """
+    import tkinter as tk
+    from tkinter import filedialog
+
+    # Create a hidden root window for the file dialog
+    root = tk.Tk()
+    root.withdraw()
+
+    # Open the file dialog
+    file_path = filedialog.askopenfilename(
+        title="Select your grades CSV file",
+        filetypes=[("CSV Files", "*.csv")]
+    )
+
+    return file_path
+
+
+# -------------------------------------------------------------
 # Function: load_grades
 # Purpose: Load exam grades from a CSV file into a NumPy array.
 # Why: NumPy arrays allow fast statistical calculations.
@@ -207,13 +235,17 @@ def main() -> None:
     """
     Main function to load data, validate structure, and run menu.
     """
-    file_name = "grades.csv"
+    print("\nPlease select your grades CSV file.")
+    file_name = choose_file()
+
+    if not file_name:
+        print("\nNo file selected. Please try again.")
+        return
 
     try:
         grades = load_grades(file_name)
     except FileNotFoundError:
         print(f"\nError: The file '{file_name}' was not found.")
-        print("Please make sure the CSV file is in the same folder.")
         return
 
     if grades.shape[1] < 1:
